@@ -1,0 +1,3247 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Analytics/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Analytics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analytics.dll": {}
+        }
+      },
+      "CFXRDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "CFXRRuntime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CFXRDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CFXRDemo.dll": {}
+        }
+      },
+      "CFXREditor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CFXREditor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CFXREditor.dll": {}
+        }
+      },
+      "CFXRRuntime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CFXRRuntime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CFXRRuntime.dll": {}
+        }
+      },
+      "Cinemachine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.2D.PixelPerfect": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "Unity.Timeline": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cinemachine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cinemachine.dll": {}
+        }
+      },
+      "com.unity.cinemachine.editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Cinemachine": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "Unity.Postprocessing.Editor": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Core.Editor": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Editor": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "Unity.Timeline": "1.0.0",
+          "Unity.Timeline.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/com.unity.cinemachine.editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/com.unity.cinemachine.editor.dll": {}
+        }
+      },
+      "KinoBloom.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KinoBloom.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KinoBloom.Runtime.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Cinemachine": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "Unity.TextMeshPro": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.Authorizations/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Feedbacks.Cinemachine": "1.0.0",
+          "MoreMountains.Feedbacks.HDRP": "1.0.0",
+          "MoreMountains.Feedbacks.MMTools": "1.0.0",
+          "MoreMountains.Feedbacks.NiceVibrations": "1.0.0",
+          "MoreMountains.Feedbacks.PostProcessing": "1.0.0",
+          "MoreMountains.Feedbacks.TextMeshPro": "1.0.0",
+          "MoreMountains.Feedbacks.URP": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.Authorizations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.Authorizations.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.Cinemachine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Cinemachine": "1.0.0",
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.Cinemachine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.Cinemachine.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.Editor.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.HDRP/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.HDRP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.HDRP.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.MMTools/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.MMTools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.MMTools.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.NiceVibrations/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.NiceVibrations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.NiceVibrations.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.PostProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.PostProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.PostProcessing.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Feedbacks.MMTools": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.TextMeshPro": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.TextMeshPro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.TextMeshPro.dll": {}
+        }
+      },
+      "MoreMountains.Feedbacks.URP/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Feedbacks.URP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Feedbacks.URP.dll": {}
+        }
+      },
+      "MoreMountains.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Tools": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Interface.dll": {}
+        }
+      },
+      "MoreMountains.Interface.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Interface": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Interface.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Interface.Editor.dll": {}
+        }
+      },
+      "MoreMountains.InventoryEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.InventoryEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.InventoryEngine.dll": {}
+        }
+      },
+      "MoreMountains.InventoryEngine.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.InventoryEngine": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.InventoryEngine.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.InventoryEngine.Editor.dll": {}
+        }
+      },
+      "MoreMountains.Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Cinemachine": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "Unity.TextMeshPro": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Tools.dll": {}
+        }
+      },
+      "MoreMountains.Tools.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Tools": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.Tools.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.Tools.Editor.dll": {}
+        }
+      },
+      "MoreMountains.TopDownEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Cinemachine": "1.0.0",
+          "MoreMountains.Feedbacks": "1.0.0",
+          "MoreMountains.Feedbacks.MMTools": "1.0.0",
+          "MoreMountains.Feedbacks.PostProcessing": "1.0.0",
+          "MoreMountains.Interface": "1.0.0",
+          "MoreMountains.InventoryEngine": "1.0.0",
+          "MoreMountains.Tools": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.TextMeshPro": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.TopDownEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.TopDownEngine.dll": {}
+        }
+      },
+      "MoreMountains.TopDownEngine.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Tools": "1.0.0",
+          "MoreMountains.TopDownEngine": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.TopDownEngine.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.TopDownEngine.Editor.dll": {}
+        }
+      },
+      "MoreMountains.TopDownEngine.InputSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MoreMountains.Tools": "1.0.0",
+          "MoreMountains.TopDownEngine": "1.0.0",
+          "Unity.InputSystem": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoreMountains.TopDownEngine.InputSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreMountains.TopDownEngine.InputSystem.dll": {}
+        }
+      },
+      "PPv2URPConverters/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Postprocessing.Editor": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Core.Editor": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Editor": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PPv2URPConverters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PPv2URPConverters.dll": {}
+        }
+      },
+      "Purchasing.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Purchasing.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Purchasing.Common.dll": {}
+        }
+      },
+      "ToonyColorsPro.Demo.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "KinoBloom.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToonyColorsPro.Demo.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToonyColorsPro.Demo.Editor.dll": {}
+        }
+      },
+      "Unity.2D.PixelPerfect/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.2D.PixelPerfect.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.2D.PixelPerfect.dll": {}
+        }
+      },
+      "Unity.2D.PixelPerfect.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.2D.PixelPerfect": "1.0.0",
+          "Unity.RenderPipelines.Universal.Editor": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.2D.PixelPerfect.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.2D.PixelPerfect.Editor.dll": {}
+        }
+      },
+      "Unity.2D.Sprite.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.2D.Sprite.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.2D.Sprite.Editor.dll": {}
+        }
+      },
+      "Unity.2D.Tilemap.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.2D.Tilemap.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.2D.Tilemap.Editor.dll": {}
+        }
+      },
+      "Unity.2D.Tilemap.Extras/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.2D.Tilemap.Extras.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.2D.Tilemap.Extras.dll": {}
+        }
+      },
+      "Unity.2D.Tilemap.Extras.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.2D.Tilemap.Editor": "1.0.0",
+          "Unity.2D.Tilemap.Extras": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.2D.Tilemap.Extras.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.2D.Tilemap.Extras.Editor.dll": {}
+        }
+      },
+      "Unity.AI.Navigation/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.AI.Navigation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.AI.Navigation.dll": {}
+        }
+      },
+      "Unity.AI.Navigation.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.AI.Navigation": "1.0.0",
+          "Unity.AI.Navigation.Editor.ConversionSystem": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.AI.Navigation.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.AI.Navigation.Editor.dll": {}
+        }
+      },
+      "Unity.AI.Navigation.Editor.ConversionSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.AI.Navigation.Editor.ConversionSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.AI.Navigation.Editor.ConversionSystem.dll": {}
+        }
+      },
+      "Unity.AI.Navigation.Updater/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.AI.Navigation": "1.0.0",
+          "Unity.AI.Navigation.Editor": "1.0.0",
+          "Unity.AI.Navigation.Editor.ConversionSystem": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.AI.Navigation.Updater.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.AI.Navigation.Updater.dll": {}
+        }
+      },
+      "Unity.Analytics.DataPrivacy/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Analytics.DataPrivacy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Analytics.DataPrivacy.dll": {}
+        }
+      },
+      "Unity.Burst/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Burst.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Burst.dll": {}
+        }
+      },
+      "Unity.Burst.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Burst": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Burst.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Burst.Editor.dll": {}
+        }
+      },
+      "Unity.EditorCoroutines.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.EditorCoroutines.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.EditorCoroutines.Editor.dll": {}
+        }
+      },
+      "Unity.InputSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.InputSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.InputSystem.dll": {}
+        }
+      },
+      "Unity.InputSystem.ForUI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.InputSystem.ForUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.InputSystem.ForUI.dll": {}
+        }
+      },
+      "Unity.InternalAPIEditorBridgeDev.001/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.InternalAPIEditorBridgeDev.001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.InternalAPIEditorBridgeDev.001.dll": {}
+        }
+      },
+      "Unity.Mathematics/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Mathematics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Mathematics.dll": {}
+        }
+      },
+      "Unity.Mathematics.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Mathematics": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Mathematics.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Mathematics.Editor.dll": {}
+        }
+      },
+      "Unity.PlasticSCM.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.PlasticSCM.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.PlasticSCM.Editor.dll": {}
+        }
+      },
+      "Unity.Play.Publisher.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.EditorCoroutines.Editor": "1.0.0",
+          "Unity.InternalAPIEditorBridgeDev.001": "1.0.0",
+          "Unity.Settings.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Play.Publisher.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Play.Publisher.Editor.dll": {}
+        }
+      },
+      "Unity.Postprocessing.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Postprocessing.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Postprocessing.Editor.dll": {}
+        }
+      },
+      "Unity.Postprocessing.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Postprocessing.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Postprocessing.Runtime.dll": {}
+        }
+      },
+      "Unity.ProBuilder/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.ProBuilder.KdTree": "1.0.0",
+          "Unity.ProBuilder.Poly2Tri": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.dll": {}
+        }
+      },
+      "Unity.ProBuilder.AddOns.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.ProBuilder": "1.0.0",
+          "Unity.ProBuilder.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.AddOns.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.AddOns.Editor.dll": {}
+        }
+      },
+      "Unity.ProBuilder.AssetIdRemapUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.AssetIdRemapUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.AssetIdRemapUtility.dll": {}
+        }
+      },
+      "Unity.ProBuilder.Csg/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.Csg.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.Csg.dll": {}
+        }
+      },
+      "Unity.ProBuilder.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.ProBuilder": "1.0.0",
+          "Unity.ProBuilder.AssetIdRemapUtility": "1.0.0",
+          "Unity.ProBuilder.Csg": "1.0.0",
+          "Unity.ProBuilder.Stl": "1.0.0",
+          "Unity.Settings.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.Editor.dll": {}
+        }
+      },
+      "Unity.ProBuilder.KdTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.KdTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.KdTree.dll": {}
+        }
+      },
+      "Unity.ProBuilder.Poly2Tri/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.Poly2Tri.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.Poly2Tri.dll": {}
+        }
+      },
+      "Unity.ProBuilder.Stl/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ProBuilder.Stl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ProBuilder.Stl.dll": {}
+        }
+      },
+      "Unity.RenderPipeline.Universal.ShaderLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipeline.Universal.ShaderLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipeline.Universal.ShaderLibrary.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Core.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Burst": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Core.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Core.Editor.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Core.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Core.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Core.Runtime.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Core.ShaderLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Core.ShaderLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Core.ShaderLibrary.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Universal.Config.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Config.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Config.Runtime.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Universal.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Burst.Editor": "1.0.0",
+          "Unity.Mathematics.Editor": "1.0.0",
+          "Unity.Postprocessing.Editor": "1.0.0",
+          "Unity.Postprocessing.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Core.Editor": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "Unity.ShaderGraph.Editor": "1.0.0",
+          "Unity.VisualEffectGraph.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Editor.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Universal.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Burst": "1.0.0",
+          "Unity.Mathematics": "1.0.0",
+          "Unity.RenderPipeline.Universal.ShaderLibrary": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.RenderPipelines.Universal.Config.Runtime": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Runtime.dll": {}
+        }
+      },
+      "Unity.RenderPipelines.Universal.Shaders/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Shaders.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.RenderPipelines.Universal.Shaders.dll": {}
+        }
+      },
+      "Unity.Rider.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Rider.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Rider.Editor.dll": {}
+        }
+      },
+      "Unity.Searcher.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Searcher.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Searcher.Editor.dll": {}
+        }
+      },
+      "Unity.Services.Analytics/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Analytics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Analytics.dll": {}
+        }
+      },
+      "Unity.Services.Analytics.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Analytics": "1.0.0",
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Editor": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Analytics.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Analytics.Editor.dll": {}
+        }
+      },
+      "Unity.Services.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.dll": {}
+        }
+      },
+      "Unity.Services.Core.Analytics/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Analytics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Analytics.dll": {}
+        }
+      },
+      "Unity.Services.Core.Configuration/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Configuration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Configuration.dll": {}
+        }
+      },
+      "Unity.Services.Core.Configuration.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Configuration": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Configuration.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Configuration.Editor.dll": {}
+        }
+      },
+      "Unity.Services.Core.Device/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Device.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Device.dll": {}
+        }
+      },
+      "Unity.Services.Core.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Configuration": "1.0.0",
+          "Unity.Services.Core.Configuration.Editor": "1.0.0",
+          "Unity.Services.Core.Environments": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "Unity.Services.Core.Networking": "1.0.0",
+          "Unity.Services.Core.Registration": "1.0.0",
+          "Unity.Services.Core.Scheduler": "1.0.0",
+          "Unity.Services.Core.Telemetry": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Editor.dll": {}
+        }
+      },
+      "Unity.Services.Core.Environments/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Environments.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Environments.dll": {}
+        }
+      },
+      "Unity.Services.Core.Environments.Internal/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Environments.Internal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Environments.Internal.dll": {}
+        }
+      },
+      "Unity.Services.Core.Internal/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Internal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Internal.dll": {}
+        }
+      },
+      "Unity.Services.Core.Networking/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Networking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Networking.dll": {}
+        }
+      },
+      "Unity.Services.Core.Registration/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Configuration": "1.0.0",
+          "Unity.Services.Core.Device": "1.0.0",
+          "Unity.Services.Core.Environments": "1.0.0",
+          "Unity.Services.Core.Environments.Internal": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "Unity.Services.Core.Scheduler": "1.0.0",
+          "Unity.Services.Core.Telemetry": "1.0.0",
+          "Unity.Services.Core.Threading": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Registration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Registration.dll": {}
+        }
+      },
+      "Unity.Services.Core.Scheduler/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Scheduler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Scheduler.dll": {}
+        }
+      },
+      "Unity.Services.Core.Telemetry/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Telemetry.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Telemetry.dll": {}
+        }
+      },
+      "Unity.Services.Core.Threading/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.Threading.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.Threading.dll": {}
+        }
+      },
+      "Unity.Settings.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Settings.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Settings.Editor.dll": {}
+        }
+      },
+      "Unity.ShaderGraph.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.RenderPipelines.Core.Editor": "1.0.0",
+          "Unity.RenderPipelines.Core.Runtime": "1.0.0",
+          "Unity.Searcher.Editor": "1.0.0",
+          "Unity.ShaderGraph.Utilities": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ShaderGraph.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ShaderGraph.Editor.dll": {}
+        }
+      },
+      "Unity.ShaderGraph.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.ShaderGraph.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ShaderGraph.Utilities.dll": {}
+        }
+      },
+      "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.TextMeshPro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.TextMeshPro.dll": {}
+        }
+      },
+      "Unity.TextMeshPro.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.TextMeshPro": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.TextMeshPro.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.TextMeshPro.Editor.dll": {}
+        }
+      },
+      "Unity.Timeline/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Timeline.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Timeline.dll": {}
+        }
+      },
+      "Unity.Timeline.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Timeline": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Timeline.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Timeline.Editor.dll": {}
+        }
+      },
+      "Unity.VisualEffectGraph.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.ShaderGraph.Editor": "1.0.0",
+          "Unity.Timeline": "1.0.0",
+          "Unity.Timeline.Editor": "1.0.0",
+          "Unity.VisualEffectGraph.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualEffectGraph.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualEffectGraph.Editor.dll": {}
+        }
+      },
+      "Unity.VisualEffectGraph.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "Unity.Timeline": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualEffectGraph.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualEffectGraph.Runtime.dll": {}
+        }
+      },
+      "Unity.VisualScripting.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.Core.dll": {}
+        }
+      },
+      "Unity.VisualScripting.Core.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.VisualScripting.Core": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.Core.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.Core.Editor.dll": {}
+        }
+      },
+      "Unity.VisualScripting.Flow/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "Unity.VisualScripting.Core": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.Flow.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.Flow.dll": {}
+        }
+      },
+      "Unity.VisualScripting.Flow.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "Unity.VisualScripting.Core": "1.0.0",
+          "Unity.VisualScripting.Core.Editor": "1.0.0",
+          "Unity.VisualScripting.Flow": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.Flow.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.Flow.Editor.dll": {}
+        }
+      },
+      "Unity.VisualScripting.SettingsProvider.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.VisualScripting.Core": "1.0.0",
+          "Unity.VisualScripting.Core.Editor": "1.0.0",
+          "Unity.VisualScripting.Flow": "1.0.0",
+          "Unity.VisualScripting.Flow.Editor": "1.0.0",
+          "Unity.VisualScripting.State": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.SettingsProvider.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.SettingsProvider.Editor.dll": {}
+        }
+      },
+      "Unity.VisualScripting.Shared.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.VisualScripting.Core": "1.0.0",
+          "Unity.VisualScripting.Core.Editor": "1.0.0",
+          "Unity.VisualScripting.Flow": "1.0.0",
+          "Unity.VisualScripting.Flow.Editor": "1.0.0",
+          "Unity.VisualScripting.State": "1.0.0",
+          "Unity.VisualScripting.State.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.Shared.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.Shared.Editor.dll": {}
+        }
+      },
+      "Unity.VisualScripting.State/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.VisualScripting.Core": "1.0.0",
+          "Unity.VisualScripting.Flow": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.State.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.State.dll": {}
+        }
+      },
+      "Unity.VisualScripting.State.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.VisualScripting.Core": "1.0.0",
+          "Unity.VisualScripting.Core.Editor": "1.0.0",
+          "Unity.VisualScripting.Flow": "1.0.0",
+          "Unity.VisualScripting.Flow.Editor": "1.0.0",
+          "Unity.VisualScripting.State": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualScripting.State.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualScripting.State.Editor.dll": {}
+        }
+      },
+      "Unity.VisualStudio.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VisualStudio.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VisualStudio.Editor.dll": {}
+        }
+      },
+      "Unity.VSCode.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.VSCode.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.VSCode.Editor.dll": {}
+        }
+      },
+      "UnityEditor.Purchasing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "Unity.Services.Core.Editor": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing": "1.0.0",
+          "UnityEngine.Purchasing.Codeless": "1.0.0",
+          "UnityEngine.Purchasing.SecurityCore": "1.0.0",
+          "UnityEngine.Purchasing.SecurityStub": "1.0.0",
+          "UnityEngine.Purchasing.Stores": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.Purchasing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.Purchasing.dll": {}
+        }
+      },
+      "UnityEditor.SpatialTracking/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.SpatialTracking": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.SpatialTracking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.SpatialTracking.dll": {}
+        }
+      },
+      "UnityEditor.TestRunner/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEngine.TestRunner": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.TestRunner.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.TestRunner.dll": {}
+        }
+      },
+      "UnityEditor.UI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.UI.dll": {}
+        }
+      },
+      "UnityEditor.XR.LegacyInputHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.InputSystem": "1.0.0",
+          "Unity.RenderPipelines.Universal.Runtime": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.SpatialTracking": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0",
+          "UnityEngine.XR.LegacyInputHelpers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.XR.LegacyInputHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.XR.LegacyInputHelpers.dll": {}
+        }
+      },
+      "UnityEngine.Advertisements/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Advertisements.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Advertisements.dll": {}
+        }
+      },
+      "UnityEngine.Advertisements.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Advertisements.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Advertisements.Editor.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "Unity.Services.Analytics": "1.0.0",
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Environments": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.AppleCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleCore.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.AppleMacosStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.AppleCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleMacosStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleMacosStub.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.AppleStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.AppleCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleStub.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.Codeless/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Services.Core": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing": "1.0.0",
+          "UnityEngine.Purchasing.Stores": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.Codeless.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.Codeless.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.SecurityCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityCore.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.SecurityStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.SecurityCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityStub.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.Stores/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "Unity.Services.Core": "1.0.0",
+          "Unity.Services.Core.Internal": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing": "1.0.0",
+          "UnityEngine.Purchasing.AppleCore": "1.0.0",
+          "UnityEngine.Purchasing.AppleMacosStub": "1.0.0",
+          "UnityEngine.Purchasing.AppleStub": "1.0.0",
+          "UnityEngine.Purchasing.SecurityCore": "1.0.0",
+          "UnityEngine.Purchasing.SecurityStub": "1.0.0",
+          "UnityEngine.Purchasing.WinRTCore": "1.0.0",
+          "UnityEngine.Purchasing.WinRTStub": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.Stores.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.Stores.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.WinRTCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTCore.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.WinRTStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.WinRTCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTStub.dll": {}
+        }
+      },
+      "UnityEngine.SpatialTracking/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.SpatialTracking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.SpatialTracking.dll": {}
+        }
+      },
+      "UnityEngine.TestRunner/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/UnityEngine.TestRunner.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.TestRunner.dll": {}
+        }
+      },
+      "UnityEngine.UI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/UnityEngine.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.UI.dll": {}
+        }
+      },
+      "UnityEngine.XR.LegacyInputHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.SpatialTracking": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.XR.LegacyInputHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.XR.LegacyInputHelpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analytics/1.0.0": {
+      "type": "project",
+      "path": "Analytics.csproj",
+      "msbuildProject": "Analytics.csproj"
+    },
+    "CFXRDemo/1.0.0": {
+      "type": "project",
+      "path": "CFXRDemo.csproj",
+      "msbuildProject": "CFXRDemo.csproj"
+    },
+    "CFXREditor/1.0.0": {
+      "type": "project",
+      "path": "CFXREditor.csproj",
+      "msbuildProject": "CFXREditor.csproj"
+    },
+    "CFXRRuntime/1.0.0": {
+      "type": "project",
+      "path": "CFXRRuntime.csproj",
+      "msbuildProject": "CFXRRuntime.csproj"
+    },
+    "Cinemachine/1.0.0": {
+      "type": "project",
+      "path": "Cinemachine.csproj",
+      "msbuildProject": "Cinemachine.csproj"
+    },
+    "com.unity.cinemachine.editor/1.0.0": {
+      "type": "project",
+      "path": "com.unity.cinemachine.editor.csproj",
+      "msbuildProject": "com.unity.cinemachine.editor.csproj"
+    },
+    "KinoBloom.Runtime/1.0.0": {
+      "type": "project",
+      "path": "KinoBloom.Runtime.csproj",
+      "msbuildProject": "KinoBloom.Runtime.csproj"
+    },
+    "MoreMountains.Feedbacks/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.csproj"
+    },
+    "MoreMountains.Feedbacks.Authorizations/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.Authorizations.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.Authorizations.csproj"
+    },
+    "MoreMountains.Feedbacks.Cinemachine/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.Cinemachine.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.Cinemachine.csproj"
+    },
+    "MoreMountains.Feedbacks.Editor/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.Editor.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.Editor.csproj"
+    },
+    "MoreMountains.Feedbacks.HDRP/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.HDRP.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.HDRP.csproj"
+    },
+    "MoreMountains.Feedbacks.MMTools/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.MMTools.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.MMTools.csproj"
+    },
+    "MoreMountains.Feedbacks.NiceVibrations/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.NiceVibrations.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.NiceVibrations.csproj"
+    },
+    "MoreMountains.Feedbacks.PostProcessing/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.PostProcessing.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.PostProcessing.csproj"
+    },
+    "MoreMountains.Feedbacks.TextMeshPro/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.TextMeshPro.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.TextMeshPro.csproj"
+    },
+    "MoreMountains.Feedbacks.URP/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Feedbacks.URP.csproj",
+      "msbuildProject": "MoreMountains.Feedbacks.URP.csproj"
+    },
+    "MoreMountains.Interface/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Interface.csproj",
+      "msbuildProject": "MoreMountains.Interface.csproj"
+    },
+    "MoreMountains.Interface.Editor/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Interface.Editor.csproj",
+      "msbuildProject": "MoreMountains.Interface.Editor.csproj"
+    },
+    "MoreMountains.InventoryEngine/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.InventoryEngine.csproj",
+      "msbuildProject": "MoreMountains.InventoryEngine.csproj"
+    },
+    "MoreMountains.InventoryEngine.Editor/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.InventoryEngine.Editor.csproj",
+      "msbuildProject": "MoreMountains.InventoryEngine.Editor.csproj"
+    },
+    "MoreMountains.Tools/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Tools.csproj",
+      "msbuildProject": "MoreMountains.Tools.csproj"
+    },
+    "MoreMountains.Tools.Editor/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.Tools.Editor.csproj",
+      "msbuildProject": "MoreMountains.Tools.Editor.csproj"
+    },
+    "MoreMountains.TopDownEngine/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.TopDownEngine.csproj",
+      "msbuildProject": "MoreMountains.TopDownEngine.csproj"
+    },
+    "MoreMountains.TopDownEngine.Editor/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.TopDownEngine.Editor.csproj",
+      "msbuildProject": "MoreMountains.TopDownEngine.Editor.csproj"
+    },
+    "MoreMountains.TopDownEngine.InputSystem/1.0.0": {
+      "type": "project",
+      "path": "MoreMountains.TopDownEngine.InputSystem.csproj",
+      "msbuildProject": "MoreMountains.TopDownEngine.InputSystem.csproj"
+    },
+    "PPv2URPConverters/1.0.0": {
+      "type": "project",
+      "path": "PPv2URPConverters.csproj",
+      "msbuildProject": "PPv2URPConverters.csproj"
+    },
+    "Purchasing.Common/1.0.0": {
+      "type": "project",
+      "path": "Purchasing.Common.csproj",
+      "msbuildProject": "Purchasing.Common.csproj"
+    },
+    "ToonyColorsPro.Demo.Editor/1.0.0": {
+      "type": "project",
+      "path": "ToonyColorsPro.Demo.Editor.csproj",
+      "msbuildProject": "ToonyColorsPro.Demo.Editor.csproj"
+    },
+    "Unity.2D.PixelPerfect/1.0.0": {
+      "type": "project",
+      "path": "Unity.2D.PixelPerfect.csproj",
+      "msbuildProject": "Unity.2D.PixelPerfect.csproj"
+    },
+    "Unity.2D.PixelPerfect.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.2D.PixelPerfect.Editor.csproj",
+      "msbuildProject": "Unity.2D.PixelPerfect.Editor.csproj"
+    },
+    "Unity.2D.Sprite.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.2D.Sprite.Editor.csproj",
+      "msbuildProject": "Unity.2D.Sprite.Editor.csproj"
+    },
+    "Unity.2D.Tilemap.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.2D.Tilemap.Editor.csproj",
+      "msbuildProject": "Unity.2D.Tilemap.Editor.csproj"
+    },
+    "Unity.2D.Tilemap.Extras/1.0.0": {
+      "type": "project",
+      "path": "Unity.2D.Tilemap.Extras.csproj",
+      "msbuildProject": "Unity.2D.Tilemap.Extras.csproj"
+    },
+    "Unity.2D.Tilemap.Extras.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.2D.Tilemap.Extras.Editor.csproj",
+      "msbuildProject": "Unity.2D.Tilemap.Extras.Editor.csproj"
+    },
+    "Unity.AI.Navigation/1.0.0": {
+      "type": "project",
+      "path": "Unity.AI.Navigation.csproj",
+      "msbuildProject": "Unity.AI.Navigation.csproj"
+    },
+    "Unity.AI.Navigation.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.AI.Navigation.Editor.csproj",
+      "msbuildProject": "Unity.AI.Navigation.Editor.csproj"
+    },
+    "Unity.AI.Navigation.Editor.ConversionSystem/1.0.0": {
+      "type": "project",
+      "path": "Unity.AI.Navigation.Editor.ConversionSystem.csproj",
+      "msbuildProject": "Unity.AI.Navigation.Editor.ConversionSystem.csproj"
+    },
+    "Unity.AI.Navigation.Updater/1.0.0": {
+      "type": "project",
+      "path": "Unity.AI.Navigation.Updater.csproj",
+      "msbuildProject": "Unity.AI.Navigation.Updater.csproj"
+    },
+    "Unity.Analytics.DataPrivacy/1.0.0": {
+      "type": "project",
+      "path": "Unity.Analytics.DataPrivacy.csproj",
+      "msbuildProject": "Unity.Analytics.DataPrivacy.csproj"
+    },
+    "Unity.Burst/1.0.0": {
+      "type": "project",
+      "path": "Unity.Burst.csproj",
+      "msbuildProject": "Unity.Burst.csproj"
+    },
+    "Unity.Burst.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Burst.Editor.csproj",
+      "msbuildProject": "Unity.Burst.Editor.csproj"
+    },
+    "Unity.EditorCoroutines.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.EditorCoroutines.Editor.csproj",
+      "msbuildProject": "Unity.EditorCoroutines.Editor.csproj"
+    },
+    "Unity.InputSystem/1.0.0": {
+      "type": "project",
+      "path": "Unity.InputSystem.csproj",
+      "msbuildProject": "Unity.InputSystem.csproj"
+    },
+    "Unity.InputSystem.ForUI/1.0.0": {
+      "type": "project",
+      "path": "Unity.InputSystem.ForUI.csproj",
+      "msbuildProject": "Unity.InputSystem.ForUI.csproj"
+    },
+    "Unity.InternalAPIEditorBridgeDev.001/1.0.0": {
+      "type": "project",
+      "path": "Unity.InternalAPIEditorBridgeDev.001.csproj",
+      "msbuildProject": "Unity.InternalAPIEditorBridgeDev.001.csproj"
+    },
+    "Unity.Mathematics/1.0.0": {
+      "type": "project",
+      "path": "Unity.Mathematics.csproj",
+      "msbuildProject": "Unity.Mathematics.csproj"
+    },
+    "Unity.Mathematics.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Mathematics.Editor.csproj",
+      "msbuildProject": "Unity.Mathematics.Editor.csproj"
+    },
+    "Unity.PlasticSCM.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.PlasticSCM.Editor.csproj",
+      "msbuildProject": "Unity.PlasticSCM.Editor.csproj"
+    },
+    "Unity.Play.Publisher.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Play.Publisher.Editor.csproj",
+      "msbuildProject": "Unity.Play.Publisher.Editor.csproj"
+    },
+    "Unity.Postprocessing.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Postprocessing.Editor.csproj",
+      "msbuildProject": "Unity.Postprocessing.Editor.csproj"
+    },
+    "Unity.Postprocessing.Runtime/1.0.0": {
+      "type": "project",
+      "path": "Unity.Postprocessing.Runtime.csproj",
+      "msbuildProject": "Unity.Postprocessing.Runtime.csproj"
+    },
+    "Unity.ProBuilder/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.csproj",
+      "msbuildProject": "Unity.ProBuilder.csproj"
+    },
+    "Unity.ProBuilder.AddOns.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.AddOns.Editor.csproj",
+      "msbuildProject": "Unity.ProBuilder.AddOns.Editor.csproj"
+    },
+    "Unity.ProBuilder.AssetIdRemapUtility/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.AssetIdRemapUtility.csproj",
+      "msbuildProject": "Unity.ProBuilder.AssetIdRemapUtility.csproj"
+    },
+    "Unity.ProBuilder.Csg/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.Csg.csproj",
+      "msbuildProject": "Unity.ProBuilder.Csg.csproj"
+    },
+    "Unity.ProBuilder.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.Editor.csproj",
+      "msbuildProject": "Unity.ProBuilder.Editor.csproj"
+    },
+    "Unity.ProBuilder.KdTree/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.KdTree.csproj",
+      "msbuildProject": "Unity.ProBuilder.KdTree.csproj"
+    },
+    "Unity.ProBuilder.Poly2Tri/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.Poly2Tri.csproj",
+      "msbuildProject": "Unity.ProBuilder.Poly2Tri.csproj"
+    },
+    "Unity.ProBuilder.Stl/1.0.0": {
+      "type": "project",
+      "path": "Unity.ProBuilder.Stl.csproj",
+      "msbuildProject": "Unity.ProBuilder.Stl.csproj"
+    },
+    "Unity.RenderPipeline.Universal.ShaderLibrary/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipeline.Universal.ShaderLibrary.csproj",
+      "msbuildProject": "Unity.RenderPipeline.Universal.ShaderLibrary.csproj"
+    },
+    "Unity.RenderPipelines.Core.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Core.Editor.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Core.Editor.csproj"
+    },
+    "Unity.RenderPipelines.Core.Runtime/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Core.Runtime.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Core.Runtime.csproj"
+    },
+    "Unity.RenderPipelines.Core.ShaderLibrary/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Core.ShaderLibrary.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Core.ShaderLibrary.csproj"
+    },
+    "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj",
+      "msbuildProject": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj"
+    },
+    "Unity.RenderPipelines.Universal.Config.Runtime/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Universal.Config.Runtime.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Universal.Config.Runtime.csproj"
+    },
+    "Unity.RenderPipelines.Universal.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Universal.Editor.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Universal.Editor.csproj"
+    },
+    "Unity.RenderPipelines.Universal.Runtime/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Universal.Runtime.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Universal.Runtime.csproj"
+    },
+    "Unity.RenderPipelines.Universal.Shaders/1.0.0": {
+      "type": "project",
+      "path": "Unity.RenderPipelines.Universal.Shaders.csproj",
+      "msbuildProject": "Unity.RenderPipelines.Universal.Shaders.csproj"
+    },
+    "Unity.Rider.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Rider.Editor.csproj",
+      "msbuildProject": "Unity.Rider.Editor.csproj"
+    },
+    "Unity.Searcher.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Searcher.Editor.csproj",
+      "msbuildProject": "Unity.Searcher.Editor.csproj"
+    },
+    "Unity.Services.Analytics/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Analytics.csproj",
+      "msbuildProject": "Unity.Services.Analytics.csproj"
+    },
+    "Unity.Services.Analytics.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Analytics.Editor.csproj",
+      "msbuildProject": "Unity.Services.Analytics.Editor.csproj"
+    },
+    "Unity.Services.Core/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.csproj",
+      "msbuildProject": "Unity.Services.Core.csproj"
+    },
+    "Unity.Services.Core.Analytics/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Analytics.csproj",
+      "msbuildProject": "Unity.Services.Core.Analytics.csproj"
+    },
+    "Unity.Services.Core.Configuration/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Configuration.csproj",
+      "msbuildProject": "Unity.Services.Core.Configuration.csproj"
+    },
+    "Unity.Services.Core.Configuration.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Configuration.Editor.csproj",
+      "msbuildProject": "Unity.Services.Core.Configuration.Editor.csproj"
+    },
+    "Unity.Services.Core.Device/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Device.csproj",
+      "msbuildProject": "Unity.Services.Core.Device.csproj"
+    },
+    "Unity.Services.Core.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Editor.csproj",
+      "msbuildProject": "Unity.Services.Core.Editor.csproj"
+    },
+    "Unity.Services.Core.Environments/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Environments.csproj",
+      "msbuildProject": "Unity.Services.Core.Environments.csproj"
+    },
+    "Unity.Services.Core.Environments.Internal/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Environments.Internal.csproj",
+      "msbuildProject": "Unity.Services.Core.Environments.Internal.csproj"
+    },
+    "Unity.Services.Core.Internal/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Internal.csproj",
+      "msbuildProject": "Unity.Services.Core.Internal.csproj"
+    },
+    "Unity.Services.Core.Networking/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Networking.csproj",
+      "msbuildProject": "Unity.Services.Core.Networking.csproj"
+    },
+    "Unity.Services.Core.Registration/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Registration.csproj",
+      "msbuildProject": "Unity.Services.Core.Registration.csproj"
+    },
+    "Unity.Services.Core.Scheduler/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Scheduler.csproj",
+      "msbuildProject": "Unity.Services.Core.Scheduler.csproj"
+    },
+    "Unity.Services.Core.Telemetry/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Telemetry.csproj",
+      "msbuildProject": "Unity.Services.Core.Telemetry.csproj"
+    },
+    "Unity.Services.Core.Threading/1.0.0": {
+      "type": "project",
+      "path": "Unity.Services.Core.Threading.csproj",
+      "msbuildProject": "Unity.Services.Core.Threading.csproj"
+    },
+    "Unity.Settings.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Settings.Editor.csproj",
+      "msbuildProject": "Unity.Settings.Editor.csproj"
+    },
+    "Unity.ShaderGraph.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.ShaderGraph.Editor.csproj",
+      "msbuildProject": "Unity.ShaderGraph.Editor.csproj"
+    },
+    "Unity.ShaderGraph.Utilities/1.0.0": {
+      "type": "project",
+      "path": "Unity.ShaderGraph.Utilities.csproj",
+      "msbuildProject": "Unity.ShaderGraph.Utilities.csproj"
+    },
+    "Unity.TextMeshPro/1.0.0": {
+      "type": "project",
+      "path": "Unity.TextMeshPro.csproj",
+      "msbuildProject": "Unity.TextMeshPro.csproj"
+    },
+    "Unity.TextMeshPro.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.TextMeshPro.Editor.csproj",
+      "msbuildProject": "Unity.TextMeshPro.Editor.csproj"
+    },
+    "Unity.Timeline/1.0.0": {
+      "type": "project",
+      "path": "Unity.Timeline.csproj",
+      "msbuildProject": "Unity.Timeline.csproj"
+    },
+    "Unity.Timeline.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.Timeline.Editor.csproj",
+      "msbuildProject": "Unity.Timeline.Editor.csproj"
+    },
+    "Unity.VisualEffectGraph.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualEffectGraph.Editor.csproj",
+      "msbuildProject": "Unity.VisualEffectGraph.Editor.csproj"
+    },
+    "Unity.VisualEffectGraph.Runtime/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualEffectGraph.Runtime.csproj",
+      "msbuildProject": "Unity.VisualEffectGraph.Runtime.csproj"
+    },
+    "Unity.VisualScripting.Core/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.Core.csproj",
+      "msbuildProject": "Unity.VisualScripting.Core.csproj"
+    },
+    "Unity.VisualScripting.Core.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.Core.Editor.csproj",
+      "msbuildProject": "Unity.VisualScripting.Core.Editor.csproj"
+    },
+    "Unity.VisualScripting.Flow/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.Flow.csproj",
+      "msbuildProject": "Unity.VisualScripting.Flow.csproj"
+    },
+    "Unity.VisualScripting.Flow.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.Flow.Editor.csproj",
+      "msbuildProject": "Unity.VisualScripting.Flow.Editor.csproj"
+    },
+    "Unity.VisualScripting.SettingsProvider.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.SettingsProvider.Editor.csproj",
+      "msbuildProject": "Unity.VisualScripting.SettingsProvider.Editor.csproj"
+    },
+    "Unity.VisualScripting.Shared.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.Shared.Editor.csproj",
+      "msbuildProject": "Unity.VisualScripting.Shared.Editor.csproj"
+    },
+    "Unity.VisualScripting.State/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.State.csproj",
+      "msbuildProject": "Unity.VisualScripting.State.csproj"
+    },
+    "Unity.VisualScripting.State.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualScripting.State.Editor.csproj",
+      "msbuildProject": "Unity.VisualScripting.State.Editor.csproj"
+    },
+    "Unity.VisualStudio.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VisualStudio.Editor.csproj",
+      "msbuildProject": "Unity.VisualStudio.Editor.csproj"
+    },
+    "Unity.VSCode.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.VSCode.Editor.csproj",
+      "msbuildProject": "Unity.VSCode.Editor.csproj"
+    },
+    "UnityEditor.Purchasing/1.0.0": {
+      "type": "project",
+      "path": "UnityEditor.Purchasing.csproj",
+      "msbuildProject": "UnityEditor.Purchasing.csproj"
+    },
+    "UnityEditor.SpatialTracking/1.0.0": {
+      "type": "project",
+      "path": "UnityEditor.SpatialTracking.csproj",
+      "msbuildProject": "UnityEditor.SpatialTracking.csproj"
+    },
+    "UnityEditor.TestRunner/1.0.0": {
+      "type": "project",
+      "path": "UnityEditor.TestRunner.csproj",
+      "msbuildProject": "UnityEditor.TestRunner.csproj"
+    },
+    "UnityEditor.UI/1.0.0": {
+      "type": "project",
+      "path": "UnityEditor.UI.csproj",
+      "msbuildProject": "UnityEditor.UI.csproj"
+    },
+    "UnityEditor.XR.LegacyInputHelpers/1.0.0": {
+      "type": "project",
+      "path": "UnityEditor.XR.LegacyInputHelpers.csproj",
+      "msbuildProject": "UnityEditor.XR.LegacyInputHelpers.csproj"
+    },
+    "UnityEngine.Advertisements/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Advertisements.csproj",
+      "msbuildProject": "UnityEngine.Advertisements.csproj"
+    },
+    "UnityEngine.Advertisements.Editor/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Advertisements.Editor.csproj",
+      "msbuildProject": "UnityEngine.Advertisements.Editor.csproj"
+    },
+    "UnityEngine.Purchasing/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.csproj"
+    },
+    "UnityEngine.Purchasing.AppleCore/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.AppleCore.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.AppleCore.csproj"
+    },
+    "UnityEngine.Purchasing.AppleMacosStub/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.AppleMacosStub.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.AppleMacosStub.csproj"
+    },
+    "UnityEngine.Purchasing.AppleStub/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.AppleStub.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.AppleStub.csproj"
+    },
+    "UnityEngine.Purchasing.Codeless/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.Codeless.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.Codeless.csproj"
+    },
+    "UnityEngine.Purchasing.SecurityCore/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.SecurityCore.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.SecurityCore.csproj"
+    },
+    "UnityEngine.Purchasing.SecurityStub/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.SecurityStub.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.SecurityStub.csproj"
+    },
+    "UnityEngine.Purchasing.Stores/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.Stores.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.Stores.csproj"
+    },
+    "UnityEngine.Purchasing.WinRTCore/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.WinRTCore.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.WinRTCore.csproj"
+    },
+    "UnityEngine.Purchasing.WinRTStub/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.Purchasing.WinRTStub.csproj",
+      "msbuildProject": "UnityEngine.Purchasing.WinRTStub.csproj"
+    },
+    "UnityEngine.SpatialTracking/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.SpatialTracking.csproj",
+      "msbuildProject": "UnityEngine.SpatialTracking.csproj"
+    },
+    "UnityEngine.TestRunner/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.TestRunner.csproj",
+      "msbuildProject": "UnityEngine.TestRunner.csproj"
+    },
+    "UnityEngine.UI/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.UI.csproj",
+      "msbuildProject": "UnityEngine.UI.csproj"
+    },
+    "UnityEngine.XR.LegacyInputHelpers/1.0.0": {
+      "type": "project",
+      "path": "UnityEngine.XR.LegacyInputHelpers.csproj",
+      "msbuildProject": "UnityEngine.XR.LegacyInputHelpers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Analytics >= 1.0.0",
+      "CFXRDemo >= 1.0.0",
+      "CFXREditor >= 1.0.0",
+      "CFXRRuntime >= 1.0.0",
+      "Cinemachine >= 1.0.0",
+      "KinoBloom.Runtime >= 1.0.0",
+      "MoreMountains.Feedbacks >= 1.0.0",
+      "MoreMountains.Feedbacks.Authorizations >= 1.0.0",
+      "MoreMountains.Feedbacks.Cinemachine >= 1.0.0",
+      "MoreMountains.Feedbacks.Editor >= 1.0.0",
+      "MoreMountains.Feedbacks.HDRP >= 1.0.0",
+      "MoreMountains.Feedbacks.MMTools >= 1.0.0",
+      "MoreMountains.Feedbacks.NiceVibrations >= 1.0.0",
+      "MoreMountains.Feedbacks.PostProcessing >= 1.0.0",
+      "MoreMountains.Feedbacks.TextMeshPro >= 1.0.0",
+      "MoreMountains.Feedbacks.URP >= 1.0.0",
+      "MoreMountains.Interface >= 1.0.0",
+      "MoreMountains.Interface.Editor >= 1.0.0",
+      "MoreMountains.InventoryEngine >= 1.0.0",
+      "MoreMountains.InventoryEngine.Editor >= 1.0.0",
+      "MoreMountains.Tools >= 1.0.0",
+      "MoreMountains.Tools.Editor >= 1.0.0",
+      "MoreMountains.TopDownEngine >= 1.0.0",
+      "MoreMountains.TopDownEngine.Editor >= 1.0.0",
+      "MoreMountains.TopDownEngine.InputSystem >= 1.0.0",
+      "PPv2URPConverters >= 1.0.0",
+      "Purchasing.Common >= 1.0.0",
+      "ToonyColorsPro.Demo.Editor >= 1.0.0",
+      "Unity.2D.PixelPerfect >= 1.0.0",
+      "Unity.2D.PixelPerfect.Editor >= 1.0.0",
+      "Unity.2D.Sprite.Editor >= 1.0.0",
+      "Unity.2D.Tilemap.Editor >= 1.0.0",
+      "Unity.2D.Tilemap.Extras >= 1.0.0",
+      "Unity.2D.Tilemap.Extras.Editor >= 1.0.0",
+      "Unity.AI.Navigation >= 1.0.0",
+      "Unity.AI.Navigation.Editor >= 1.0.0",
+      "Unity.AI.Navigation.Editor.ConversionSystem >= 1.0.0",
+      "Unity.AI.Navigation.Updater >= 1.0.0",
+      "Unity.Analytics.DataPrivacy >= 1.0.0",
+      "Unity.Burst >= 1.0.0",
+      "Unity.Burst.Editor >= 1.0.0",
+      "Unity.EditorCoroutines.Editor >= 1.0.0",
+      "Unity.InputSystem >= 1.0.0",
+      "Unity.InputSystem.ForUI >= 1.0.0",
+      "Unity.InternalAPIEditorBridgeDev.001 >= 1.0.0",
+      "Unity.Mathematics >= 1.0.0",
+      "Unity.Mathematics.Editor >= 1.0.0",
+      "Unity.PlasticSCM.Editor >= 1.0.0",
+      "Unity.Play.Publisher.Editor >= 1.0.0",
+      "Unity.Postprocessing.Editor >= 1.0.0",
+      "Unity.Postprocessing.Runtime >= 1.0.0",
+      "Unity.ProBuilder >= 1.0.0",
+      "Unity.ProBuilder.AddOns.Editor >= 1.0.0",
+      "Unity.ProBuilder.AssetIdRemapUtility >= 1.0.0",
+      "Unity.ProBuilder.Editor >= 1.0.0",
+      "Unity.RenderPipeline.Universal.ShaderLibrary >= 1.0.0",
+      "Unity.RenderPipelines.Core.Editor >= 1.0.0",
+      "Unity.RenderPipelines.Core.Runtime >= 1.0.0",
+      "Unity.RenderPipelines.Core.ShaderLibrary >= 1.0.0",
+      "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary >= 1.0.0",
+      "Unity.RenderPipelines.Universal.Config.Runtime >= 1.0.0",
+      "Unity.RenderPipelines.Universal.Editor >= 1.0.0",
+      "Unity.RenderPipelines.Universal.Runtime >= 1.0.0",
+      "Unity.RenderPipelines.Universal.Shaders >= 1.0.0",
+      "Unity.Rider.Editor >= 1.0.0",
+      "Unity.Searcher.Editor >= 1.0.0",
+      "Unity.Services.Analytics >= 1.0.0",
+      "Unity.Services.Analytics.Editor >= 1.0.0",
+      "Unity.Services.Core >= 1.0.0",
+      "Unity.Services.Core.Analytics >= 1.0.0",
+      "Unity.Services.Core.Environments >= 1.0.0",
+      "Unity.ShaderGraph.Editor >= 1.0.0",
+      "Unity.TextMeshPro >= 1.0.0",
+      "Unity.TextMeshPro.Editor >= 1.0.0",
+      "Unity.Timeline >= 1.0.0",
+      "Unity.Timeline.Editor >= 1.0.0",
+      "Unity.VSCode.Editor >= 1.0.0",
+      "Unity.VisualEffectGraph.Editor >= 1.0.0",
+      "Unity.VisualEffectGraph.Runtime >= 1.0.0",
+      "Unity.VisualScripting.Core >= 1.0.0",
+      "Unity.VisualScripting.Core.Editor >= 1.0.0",
+      "Unity.VisualScripting.Flow >= 1.0.0",
+      "Unity.VisualScripting.Flow.Editor >= 1.0.0",
+      "Unity.VisualScripting.SettingsProvider.Editor >= 1.0.0",
+      "Unity.VisualScripting.Shared.Editor >= 1.0.0",
+      "Unity.VisualScripting.State >= 1.0.0",
+      "Unity.VisualScripting.State.Editor >= 1.0.0",
+      "Unity.VisualStudio.Editor >= 1.0.0",
+      "UnityEditor.Purchasing >= 1.0.0",
+      "UnityEditor.SpatialTracking >= 1.0.0",
+      "UnityEditor.UI >= 1.0.0",
+      "UnityEditor.XR.LegacyInputHelpers >= 1.0.0",
+      "UnityEngine.Advertisements >= 1.0.0",
+      "UnityEngine.Advertisements.Editor >= 1.0.0",
+      "UnityEngine.Purchasing >= 1.0.0",
+      "UnityEngine.Purchasing.Codeless >= 1.0.0",
+      "UnityEngine.Purchasing.SecurityCore >= 1.0.0",
+      "UnityEngine.Purchasing.SecurityStub >= 1.0.0",
+      "UnityEngine.Purchasing.Stores >= 1.0.0",
+      "UnityEngine.SpatialTracking >= 1.0.0",
+      "UnityEngine.UI >= 1.0.0",
+      "UnityEngine.XR.LegacyInputHelpers >= 1.0.0",
+      "com.unity.cinemachine.editor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ostiu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Assembly-CSharp.csproj",
+      "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+      "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Analytics.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Analytics.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\CFXRDemo.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\CFXRDemo.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\CFXREditor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\CFXREditor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\CFXRRuntime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\CFXRRuntime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Cinemachine.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Cinemachine.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\com.unity.cinemachine.editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\com.unity.cinemachine.editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\KinoBloom.Runtime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\KinoBloom.Runtime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.Authorizations.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.Authorizations.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.Cinemachine.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.Cinemachine.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.HDRP.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.HDRP.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.MMTools.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.MMTools.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.NiceVibrations.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.NiceVibrations.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.PostProcessing.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.PostProcessing.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.TextMeshPro.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.TextMeshPro.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.URP.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Feedbacks.URP.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Interface.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Interface.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Interface.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Interface.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.InventoryEngine.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.InventoryEngine.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.InventoryEngine.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.InventoryEngine.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Tools.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Tools.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Tools.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.Tools.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.TopDownEngine.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.TopDownEngine.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.TopDownEngine.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.TopDownEngine.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.TopDownEngine.InputSystem.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\MoreMountains.TopDownEngine.InputSystem.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\PPv2URPConverters.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\PPv2URPConverters.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\ToonyColorsPro.Demo.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\ToonyColorsPro.Demo.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.PixelPerfect.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.PixelPerfect.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.PixelPerfect.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.PixelPerfect.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Sprite.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Sprite.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Tilemap.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Tilemap.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Tilemap.Extras.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Tilemap.Extras.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Tilemap.Extras.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.2D.Tilemap.Extras.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.Editor.ConversionSystem.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.Editor.ConversionSystem.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.Updater.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.AI.Navigation.Updater.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Analytics.DataPrivacy.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Analytics.DataPrivacy.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Burst.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Burst.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Burst.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Burst.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.EditorCoroutines.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.EditorCoroutines.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.InputSystem.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.InputSystem.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.InputSystem.ForUI.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.InputSystem.ForUI.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.InternalAPIEditorBridgeDev.001.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.InternalAPIEditorBridgeDev.001.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Mathematics.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Mathematics.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Mathematics.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Mathematics.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.PlasticSCM.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.PlasticSCM.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Play.Publisher.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Play.Publisher.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Postprocessing.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Postprocessing.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Postprocessing.Runtime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Postprocessing.Runtime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.AddOns.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.AddOns.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.AssetIdRemapUtility.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.AssetIdRemapUtility.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ProBuilder.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipeline.Universal.ShaderLibrary.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipeline.Universal.ShaderLibrary.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Core.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Core.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Core.Runtime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Core.Runtime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Core.ShaderLibrary.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Core.ShaderLibrary.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Config.Runtime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Config.Runtime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Runtime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Runtime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Shaders.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.RenderPipelines.Universal.Shaders.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Rider.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Rider.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Searcher.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Searcher.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Analytics.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Analytics.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ShaderGraph.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.ShaderGraph.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.TextMeshPro.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.TextMeshPro.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.TextMeshPro.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.TextMeshPro.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Timeline.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Timeline.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Timeline.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Timeline.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualEffectGraph.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualEffectGraph.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualEffectGraph.Runtime.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualEffectGraph.Runtime.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Core.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Core.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Core.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Core.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Flow.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Flow.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Flow.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Flow.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.SettingsProvider.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Shared.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.Shared.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.State.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.State.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.State.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualScripting.State.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualStudio.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VisualStudio.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VSCode.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.VSCode.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.Purchasing.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.Purchasing.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.SpatialTracking.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.SpatialTracking.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.XR.LegacyInputHelpers.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.XR.LegacyInputHelpers.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Advertisements.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Advertisements.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Advertisements.Editor.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Advertisements.Editor.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Codeless.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Codeless.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.SpatialTracking.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.SpatialTracking.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+            },
+            "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.XR.LegacyInputHelpers.csproj": {
+              "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.XR.LegacyInputHelpers.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

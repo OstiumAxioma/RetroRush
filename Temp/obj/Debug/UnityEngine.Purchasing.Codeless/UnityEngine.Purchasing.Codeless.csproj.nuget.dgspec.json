@@ -1,0 +1,1233 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Codeless.csproj": {}
+  },
+  "projects": {
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj",
+        "projectName": "Purchasing.Common",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\Purchasing.Common\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj",
+        "projectName": "Unity.Services.Analytics",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\Unity.Services.Analytics\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj",
+        "projectName": "Unity.Services.Core",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\Unity.Services.Core\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj",
+        "projectName": "Unity.Services.Core.Environments",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\Unity.Services.Core.Environments\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj",
+        "projectName": "Unity.Services.Core.Internal",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\Unity.Services.Core.Internal\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEditor.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.TestRunner.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj",
+        "projectName": "UnityEngine.Purchasing.AppleCore",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.AppleCore\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleMacosStub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleMacosStub.csproj",
+        "projectName": "UnityEngine.Purchasing.AppleMacosStub",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleMacosStub.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.AppleMacosStub\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleStub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleStub.csproj",
+        "projectName": "UnityEngine.Purchasing.AppleStub",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleStub.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.AppleStub\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Codeless.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Codeless.csproj",
+        "projectName": "UnityEngine.Purchasing.Codeless",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Codeless.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.Codeless\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj",
+        "projectName": "UnityEngine.Purchasing",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Analytics.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Environments.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj",
+        "projectName": "UnityEngine.Purchasing.SecurityCore",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.SecurityCore\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj",
+        "projectName": "UnityEngine.Purchasing.SecurityStub",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.SecurityStub\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj",
+        "projectName": "UnityEngine.Purchasing.Stores",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.Stores.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.Stores\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Purchasing.Common.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Unity.Services.Core.Internal.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleMacosStub.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleMacosStub.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleStub.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.AppleStub.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.SecurityStub.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTStub.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTStub.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj",
+        "projectName": "UnityEngine.Purchasing.WinRTCore",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.WinRTCore\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTStub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTStub.csproj",
+        "projectName": "UnityEngine.Purchasing.WinRTStub",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTStub.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.Purchasing.WinRTStub\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEditor.UI.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.Purchasing.WinRTCore.csproj"
+              },
+              "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+                "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\Ostiu\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\5540\\5540Final_VoxelGame\\Temp\\obj\\Debug\\UnityEngine.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ostiu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
